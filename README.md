@@ -1,1 +1,1 @@
-# Image_Slider
+# Image_Slider program using HTML, CSS & JavaScript
